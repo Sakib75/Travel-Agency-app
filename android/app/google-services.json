@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728310773198",
+    "firebase_url": "https://travello-ad850.firebaseio.com",
+    "project_id": "travello-ad850",
+    "storage_bucket": "travello-ad850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728310773198:android:789efa668d43af090d279f",
+        "android_client_info": {
+          "package_name": "com.example.travello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728310773198-n656mib991h27li2cmegh960plqjahik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnp6yDpZax3qH3djerixuZ8HvWUfaqeQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728310773198-n656mib991h27li2cmegh960plqjahik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
